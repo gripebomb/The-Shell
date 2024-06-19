@@ -4,7 +4,7 @@ This theme was forked to fit my needs for my website's appearence.
 
 ![image](https://cdn.dribbble.com/users/1091/screenshots/15487845/media/7015d7f78569b3b885146dec1c268193.gif)
 
-It was originally created by [Dmitry Lebedev](https://github.com/mityalebedev) as a minimalistic dark color theme for [Ghost](http://github.com/tryghost/ghost/); now it's using a totally different color palette: 
+It was originally created by [Dmitry Lebedev](https://github.com/mityalebedev) as a minimalistic dark color theme for [Ghost](http://github.com/tryghost/ghost/); now it's using a totally different color palette: [GitHub Dark Mode](https://dribbble.com/shots/15487845-GitHub-Dark-mode-colors)
 
 ## LICENSE
 ```
