@@ -2,9 +2,9 @@
 
 This theme was forked to fit my needs for my website's appearence.
 
-![image](https://user-images.githubusercontent.com/1761114/55421430-dc7f8e80-5581-11e9-9db8-ad3071f09098.png)
+![image](https://raw.githubusercontent.com/wojciechkepka/vim-github-dark/master/assets/colors.png)
 
-It was created by [Dmitry Lebedev](https://github.com/mityalebedev) as a minimalistic dark color theme for [Ghost](http://github.com/tryghost/ghost/). As in the original creator's `README`, you can [support him](https://how-to-help-ukraine-now.super.site/) as he is from Ukraine.
+It was originally created by [Dmitry Lebedev](https://github.com/mityalebedev) as a minimalistic dark color theme for [Ghost](http://github.com/tryghost/ghost/). As in the original creator's `README`, you can [support him](https://how-to-help-ukraine-now.super.site/) as he is from Ukraine.
 
 ## LICENSE
 ```
