@@ -1,8 +1,9 @@
 {
-    "name": "the-shell",
-    "description": "Theme for Ghost which use 'Ghost in The Shell' animation series palette colors",
-    "demo": "https://ghostintheshell.ghost.io",
+    "name": "the-shell-fork",
+    "description": "This theme was forked to fit my needs for my website's appearence.",
+    "demo": "https://datcuandrei.com",
     "version": "3.0.0",
+    "type": "module",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
@@ -17,9 +18,9 @@
         "test": "gscan ."
     },
     "author": {
-        "name": "Dmitry Lebedev",
-        "email": "mityalebedev@me.com",
-        "url": "https://github.com/mityalebedev"
+        "name": "Andrei Datcu",
+        "email": "andrei@datcuandrei.com",
+        "url": "https://github.com/datcuandrei"
     },
     "gpm": {
         "type": "theme",
@@ -35,17 +36,18 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mityalebedev/The-Shell.git"
+        "url": "https://github.com/datcuandrei/The-Shell.git"
     },
-    "bugs": "https://github.com/mityalebedev/The-Shell/issues",
-    "contributors": "https://github.com/mityalebedev/The-Shell/graphs/contributors",
+    "bugs": "https://github.com/datcuandrei/The-Shell/issues",
+    "contributors": "https://github.com/datcuandrei/The-Shell/graphs/contributors",
     "devDependencies": {
-        "browser-sync": "^2.26.3",
-        "gulp": "^4.0.0",
-        "gulp-autoprefixer": "^6.0.0",
-        "gulp-sass": "^4.0.2",
-        "gulp-sourcemaps": "^2.6.4",
-        "gulp-zip": "^4.2.0"
+        "browser-sync": "3.0.2",
+        "sass": "1.77.6",
+        "gulp": "5.0.0",
+        "gulp-autoprefixer": "9.0.0",
+        "gulp-sass": "^5.1.0",
+        "gulp-sourcemaps": "3.0.0",
+        "gulp-zip": "^5.0.0"
     },
     "config": {
         "posts_per_page": 5
