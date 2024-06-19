@@ -1,4 +1,5 @@
 Copyright (c) 2014 Dmitry Lebedev - Released under The MIT License.
+Copyright (c) 2024 Andrei Datcu - Released under The MIT License.
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
