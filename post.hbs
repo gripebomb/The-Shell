@@ -32,7 +32,7 @@
         <section class="post-content">
             {{content}}
         </section>
-
+        
         <footer class="post-footer">
 
             {{#if primary_author}}
@@ -40,8 +40,39 @@
                     <h4>Thank you!</h4>
                     <p>If you like my work, subscribe to my <a href="https://datcuandrei.com/rss">RSS feed</a> to get notified about my latest posts.<br/>You can also consider donating on <a href="https://paypal.me/datcuandrei">PayPal</a> as I entend on keeping this blog ad-free.</p>
                 </section>
+                <br/>
+                <script src="https://giscus.app/client.js"
+                    data-repo="datcuandrei/The-Shell"
+                    data-repo-id="R_kgDOMLbhZA"
+                    data-category="General"
+                    data-category-id="DIC_kwDOMLbhZM4CgN48"
+                    data-mapping="pathname"
+                    data-strict="0"
+                    data-reactions-enabled="1"
+                    data-emit-metadata="0"
+                    data-input-position="bottom"
+                    data-theme="dark"
+                    data-lang="en"
+                    crossorigin="anonymous"
+                    async>
+                </script>
             {{/if}}
         </footer>
+
+        <script>
+        // This script hides the footer on certain pages that are not supposed to have it.
+        document.addEventListener('DOMContentLoaded', function() {
+            var footer = document.querySelector('.post-footer');
+            var title = document.querySelector('.post-title').textContent.trim();
+
+            if (title.includes("About") || title.includes("Experience") || title.includes("Presentations") || title.includes("Contact")) {
+                footer.style.display = 'none';
+            }else {
+                console.error("Couldn't hide: " + footer);
+            }
+        });
+        </script>
+
 
         {{/post}}
 
