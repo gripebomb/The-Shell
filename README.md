@@ -9,6 +9,9 @@ This theme was forked to fit my needs for my website's appearence.
 It was originally created by [Dmitry Lebedev](https://github.com/mityalebedev) as a minimalistic dark color theme for [Ghost](http://github.com/tryghost/ghost/); now it's using a totally different color palette: [GitHub Dark Mode](https://dribbble.com/shots/15487845-GitHub-Dark-mode-colors)
 
 ## LICENSE
+
+</div>
+
 ```
 Copyright (c) 2014 Dmitry Lebedev - Released under The MIT License.
 Copyright (c) 2024 Andrei Datcu - Released under The MIT License.
@@ -34,5 +37,3 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 ```
-
-</div>
