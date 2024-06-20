@@ -376,7 +376,7 @@ button, input, select, textarea {
   transition: background 0.3s linear;
 }
 #blog-logo:hover:before {
-  background: rgba(204, 31, 39, 0.5);
+  background: rgba(255, 255, 255, 0.21);
 }
 #blog-logo img {
   display: block;
